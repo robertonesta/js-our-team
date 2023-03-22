@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    margin: 2rem auto;
+}
+
+.name, .role{
+    text-align: center;
+}
